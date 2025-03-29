@@ -1,3 +1,4 @@
 flask
 google-generativeai
 langchain_core
+langchain-google-genai
